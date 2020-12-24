@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComponenteChecbox</string>
+    <string name="check_peliculas">Peliculas</string>
+    <string name="check_series">Series</string>
+    <string name="radio_button_mujer">Mujer</string>
+    <string name="radio_button_hombre">Hombre</string>
+    <string name="radio_button_indefinido">Indefinido</string>
+</resources>
